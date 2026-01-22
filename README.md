@@ -13,23 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- 顶部大标题 + 简短介绍 -->
-<h1 align="center">Hi, I'm Fa-ce</h1>
+## 📊 GitHub Stats
 
-<p align="center">
-Frontend Engineer · Open Source Enthusiast
-</p>
-
----
-
-## 🚀 About Me
 - Passionate about modern frontend technologies: **Vue 3 / Vite / JavaScript**
 - Focus on tooling, automation, and scalable frontend architecture
 - Contributor and maintainer of multiple JavaScript & Vue projects
-
----
-
-## 📊 GitHub Stats
 
 <!-- GitHub 代码统计卡片 -->
 ![Fa-ce GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fa-ce&show_icons=true&theme=dark&hide_border=true)
@@ -54,6 +42,7 @@ Frontend Engineer · Open Source Enthusiast
 - **docs** — 前端学习笔记与文档  
 - **Music_Listen** — 基于 Vue 的音乐播放器项目  
 - **DrawIo** — Draw.io 设计图文档集合
+- **gitBook** - https://app.gitbook.com/o/JHgpTW6BwqgX3O4TMwB1/s/dCazf13P3s6UMVvYGhNt/
 
 ---
 
@@ -66,4 +55,3 @@ Frontend Engineer · Open Source Enthusiast
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
-![gitBook](https://app.gitbook.com/o/JHgpTW6BwqgX3O4TMwB1/s/dCazf13P3s6UMVvYGhNt/)
